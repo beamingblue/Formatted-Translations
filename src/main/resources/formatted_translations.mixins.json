@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "blue.beaming.ftranslations.injected.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "MutableTextConstructorInvoker",
+    "SystemDelegatedLanguageMixin",
+    "TextCodecsMixin",
+    "TranslatableTextContentMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

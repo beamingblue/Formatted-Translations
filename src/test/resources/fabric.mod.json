@@ -1,0 +1,10 @@
+{
+  "id": "formatted_translations_testmod",
+  "version": "1.0",
+  "schemaVersion": 1,
+  "entrypoints": {
+    "main": [
+      "blue.beaming.ftranslations.FormattedTranslationsTest"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "ftranslations",
+  "version": "${version}",
+  "name": "Formatted Translations",
+  "description": "Adds formatting support to Server-Translations with Placeholder API",
+  "authors": ["BeamingBlue"],
+  "contact": {
+    "sources": "https://github.com/beamingblue/Formatted-Translations",
+    "issues": "https://github.com/beamingblue/Formatted-Translations/issues"
+  },
+  "license": "MIT",
+  "environment": "*",
+  "mixins": [
+    "formatted_translations.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "minecraft": ">=${minecraft_version}-"
+  }
+}

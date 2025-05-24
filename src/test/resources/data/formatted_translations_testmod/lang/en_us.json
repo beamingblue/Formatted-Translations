@@ -1,0 +1,6 @@
+{
+  "test.static": "<bold><i>You</i> <yellow>took</yellow> <red>damage</red><blue>!</blue></bold>",
+  "test.vars": "<i>%s took %s damage.</i>",
+  "test.more_vars": "<underline>Because of %3$s, %1$s took %2$s damage.</underline>",
+  "test.even_more_vars": "<bold>Because of %3$s, %s took %s damage.</bold>"
+}
